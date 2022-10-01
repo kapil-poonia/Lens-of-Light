@@ -286,12 +286,12 @@
     .fa-instagram:hover {
         transition: .4s ease-in-out;
         color: white;
-        background: #d6249f;
+        background: #d6249e;
         background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
     }
     
     .fa-linkedin:hover {
-        background: #007bb5;
+        background: #007bc6;
         color: white;
         transition: .4s ease-in-out;
     }
